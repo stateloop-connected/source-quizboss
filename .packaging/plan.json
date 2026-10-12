@@ -1,0 +1,14 @@
+{
+  "build_script": "sh scripts/build.sh",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "Aoa77/QuizBoss",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "1dc328afb1259f66a82bb707cd89ac45511c849e"
+}
